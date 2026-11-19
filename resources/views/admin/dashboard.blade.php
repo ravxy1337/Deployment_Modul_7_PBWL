@@ -6,7 +6,7 @@
     <div class="py-12">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
             <div class="bg-white p-6 rounded-lg shadow-sm">
-                <p>Selamat Datang, Administrator!</p>
+                <p>Selamat Datang, Rava Admin</p>
 
                 <!-- Pengecekan Permission di Tampilan -->
                 @can('kelola pengguna')
